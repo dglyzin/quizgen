@@ -1,0 +1,297 @@
+{
+    "iivanov": {
+        "group": "4",
+        "fio": "\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447",
+        "problems": [
+            {
+                "problemidx": 6,
+                "variantidx": 2,
+                "params": {
+                    "xmin": -3,
+                    "xmax": 5,
+                    "ymin": -2,
+                    "ymax": 2
+                }
+            },
+            {
+                "problemidx": 2,
+                "variantidx": 2,
+                "params": {
+                    "h": 0.2,
+                    "a": 1.5,
+                    "p": 0.7
+                }
+            },
+            {
+                "problemidx": 5,
+                "variantidx": 2,
+                "params": {
+                    "lam": 0.6
+                }
+            },
+            {
+                "problemidx": 8,
+                "variantidx": 1,
+                "params": {
+                    "dx": 1,
+                    "dy": 9,
+                    "dz": 1,
+                    "covxy": -1,
+                    "covxz": 0.5,
+                    "covyz": 0.1
+                }
+            },
+            {
+                "problemidx": 7,
+                "variantidx": 2,
+                "params": {
+                    "lam": 1,
+                    "a": 3,
+                    "d": 1
+                }
+            },
+            {
+                "problemidx": 4,
+                "variantidx": 2,
+                "params": {
+                    "lam": 2.25,
+                    "side": 2,
+                    "count": 4
+                }
+            },
+            {
+                "problemidx": 9,
+                "variantidx": 2,
+                "params": {
+                    "mean": 2,
+                    "a": 2,
+                    "b": 2,
+                    "c": 2
+                }
+            },
+            {
+                "problemidx": 1,
+                "variantidx": 2,
+                "params": {
+                    "prob1": 0.4,
+                    "prob2": 0.1,
+                    "val1": -1
+                }
+            },
+            {
+                "problemidx": 10,
+                "variantidx": 2,
+                "params": {
+                    "xmin": 1,
+                    "xmax": 5
+                }
+            },
+            {
+                "problemidx": 3,
+                "variantidx": 2,
+                "params": {
+                    "m": 1,
+                    "amp": 2,
+                    "prob": 0.6
+                }
+            }
+        ]
+    },
+    "ppetrov": {
+        "group": "4",
+        "fio": "\u041f\u0435\u0442\u0440 \u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0447 \u041f\u0435\u0442\u0440\u043e\u0432",
+        "problems": [
+            {
+                "problemidx": 10,
+                "variantidx": 1,
+                "params": {
+                    "xmin": 1,
+                    "xmax": 5
+                }
+            },
+            {
+                "problemidx": 1,
+                "variantidx": 2,
+                "params": {
+                    "prob1": 0.2,
+                    "prob2": 0.2,
+                    "val1": -3
+                }
+            },
+            {
+                "problemidx": 7,
+                "variantidx": 2,
+                "params": {
+                    "lam": 3,
+                    "a": 1,
+                    "d": 4
+                }
+            },
+            {
+                "problemidx": 4,
+                "variantidx": 1,
+                "params": {
+                    "lam": 2,
+                    "r": 1.25,
+                    "count": 6
+                }
+            },
+            {
+                "problemidx": 3,
+                "variantidx": 1,
+                "params": {
+                    "m": 1,
+                    "sigma": 3,
+                    "prob": 0.6
+                }
+            },
+            {
+                "problemidx": 5,
+                "variantidx": 2,
+                "params": {
+                    "lam": 2.6
+                }
+            },
+            {
+                "problemidx": 9,
+                "variantidx": 1,
+                "params": {
+                    "mean": 2,
+                    "a": 2,
+                    "b": 1,
+                    "c": 1
+                }
+            },
+            {
+                "problemidx": 8,
+                "variantidx": 1,
+                "params": {
+                    "dx": 1,
+                    "dy": 9,
+                    "dz": 1,
+                    "covxy": 1,
+                    "covxz": -0.5,
+                    "covyz": -0.1
+                }
+            },
+            {
+                "problemidx": 2,
+                "variantidx": 2,
+                "params": {
+                    "h": 0.2,
+                    "a": 0.5,
+                    "p": 0.6
+                }
+            },
+            {
+                "problemidx": 6,
+                "variantidx": 2,
+                "params": {
+                    "xmin": -3,
+                    "xmax": 5,
+                    "ymin": -4,
+                    "ymax": 2
+                }
+            }
+        ]
+    },
+    "ssidorov": {
+        "group": "6",
+        "fio": "\u0421\u0438\u0434\u043e\u0440 \u0421\u0438\u0434\u043e\u0440\u043e\u0432\u0438\u0447 \u0421\u0438\u0434\u043e\u0440\u043e\u0432",
+        "problems": [
+            {
+                "problemidx": 9,
+                "variantidx": 1,
+                "params": {
+                    "mean": 1,
+                    "a": 2,
+                    "b": 2,
+                    "c": 2
+                }
+            },
+            {
+                "problemidx": 10,
+                "variantidx": 2,
+                "params": {
+                    "xmin": 1,
+                    "xmax": 5
+                }
+            },
+            {
+                "problemidx": 8,
+                "variantidx": 2,
+                "params": {
+                    "dx": 4,
+                    "dy": 9,
+                    "dz": 1,
+                    "covxy": -1,
+                    "covxz": 0.5,
+                    "covyz": -0.1
+                }
+            },
+            {
+                "problemidx": 6,
+                "variantidx": 1,
+                "params": {
+                    "xmin": -3,
+                    "xmax": 5,
+                    "ymin": -2,
+                    "ymax": 2
+                }
+            },
+            {
+                "problemidx": 2,
+                "variantidx": 1,
+                "params": {
+                    "h": 0.3,
+                    "a": 0.5,
+                    "b": 2.0
+                }
+            },
+            {
+                "problemidx": 3,
+                "variantidx": 1,
+                "params": {
+                    "m": 1,
+                    "sigma": 4,
+                    "prob": 0.8
+                }
+            },
+            {
+                "problemidx": 1,
+                "variantidx": 1,
+                "params": {
+                    "prob1": 0.3,
+                    "prob2": 0.3,
+                    "val1": -1
+                }
+            },
+            {
+                "problemidx": 4,
+                "variantidx": 1,
+                "params": {
+                    "lam": 2,
+                    "r": 1,
+                    "count": 6
+                }
+            },
+            {
+                "problemidx": 7,
+                "variantidx": 2,
+                "params": {
+                    "lam": 2,
+                    "a": 2,
+                    "d": 4
+                }
+            },
+            {
+                "problemidx": 5,
+                "variantidx": 1,
+                "params": {
+                    "p": 0.1,
+                    "n": 2
+                }
+            }
+        ]
+    }
+}
